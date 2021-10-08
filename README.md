@@ -1,2 +1,2 @@
-# Singly_Linked_List
+# Data structure and Algorithm
  
